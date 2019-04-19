@@ -1,0 +1,263 @@
+[16-Apr-2019 15:01:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_path() in /app/public/wp-content/themes/portfolio-theme/functions.php:4
+Stack trace:
+#0 /app/public/wp-settings.php(479): include()
+#1 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_path() in /app/public/wp-content/themes/portfolio-theme/functions.php:4
+Stack trace:
+#0 /app/public/wp-settings.php(479): include()
+#1 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_path() in /app/public/wp-content/themes/portfolio-theme/functions.php:4
+Stack trace:
+#0 /app/public/wp-settings.php(479): include()
+#1 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_path() in /app/public/wp-content/themes/portfolio-theme/functions.php:4
+Stack trace:
+#0 /app/public/wp-settings.php(479): include()
+#1 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:03:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/portfolio-theme/functions.php on line 4
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant content - assumed 'content' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant themes - assumed 'themes' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Division by zero in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant portfolio - assumed 'portfolio' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Division by zero in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant theme - assumed 'theme' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  Use of undefined constant assets - assumed 'assets' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:44 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:44 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:44 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:44 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:44 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:44 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:44 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:44 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Division by zero in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Use of undefined constant css - assumed 'css' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Division by zero in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Use of undefined constant main - assumed 'main' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Division by zero in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:32:45 UTC] PHP Warning:  Use of undefined constant css - assumed 'css' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/portfolio-theme/functions.php on line 7
+[16-Apr-2019 15:32:45 UTC] PHP Stack trace:
+[16-Apr-2019 15:32:45 UTC] PHP   1. {main}() /app/public/index.php:0
+[16-Apr-2019 15:32:45 UTC] PHP   2. require() /app/public/index.php:17
+[16-Apr-2019 15:32:45 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[16-Apr-2019 15:32:45 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[16-Apr-2019 15:32:45 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[16-Apr-2019 15:32:45 UTC] PHP   6. include() /app/public/wp-settings.php:479
+[16-Apr-2019 15:33:40 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /app/public/wp-includes/class-wp-block-type-registry.php:166
+Stack trace:
+#0 /app/public/wp-includes/script-loader.php(2658): WP_Block_Type_Registry::get_instance()
+#1 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_registered_block_scripts_and_styles('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /app/public/wp-includes/script-loader.php(2642): do_action('enqueue_block_a...')
+#5 /app/public/wp-includes/class-wp-hook.php(286): wp_common_block_scripts_and_styles('')
+#6 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#7 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#8 /app/public/wp-includes/script-loader.php(2463): do_action('wp_enqueue_scri...')
+#9 /app/public/wp-content/themes/portfolio-theme/functions.php(5): wp_enqueue_scripts('')
+#10 /app/public/wp-in in /app/public/wp-includes/class-wp-block-type-registry.php on line 166
+[16-Apr-2019 15:34:03 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /app/public/wp-includes/class-wp-block-type-registry.php:166
+Stack trace:
+#0 /app/public/wp-includes/script-loader.php(2658): WP_Block_Type_Registry::get_instance()
+#1 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_registered_block_scripts_and_styles('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /app/public/wp-includes/script-loader.php(2642): do_action('enqueue_block_a...')
+#5 /app/public/wp-includes/class-wp-hook.php(286): wp_common_block_scripts_and_styles('')
+#6 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#7 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#8 /app/public/wp-includes/script-loader.php(2463): do_action('wp_enqueue_scri...')
+#9 /app/public/wp-content/themes/portfolio-theme/functions.php(5): wp_enqueue_scripts('custom_js')
+#10 /app/pub in /app/public/wp-includes/class-wp-block-type-registry.php on line 166
+[18-Apr-2019 16:39:52 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ')' in /app/public/wp-content/plugins/cpt-creator/cpt-creator.php on line 12
+[18-Apr-2019 16:41:52 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ')' in /app/public/wp-content/plugins/cpt-creator/cpt-creator.php on line 12
+[18-Apr-2019 16:43:01 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ')' in /app/public/wp-content/plugins/cpt-creator/cpt-creator.php on line 12
+[18-Apr-2019 16:43:13 UTC] PHP Warning:  Use of undefined constant create_cpts - assumed 'create_cpts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/plugins/cpt-creator/cpt-creator.php on line 23
+[18-Apr-2019 16:43:13 UTC] PHP Stack trace:
+[18-Apr-2019 16:43:13 UTC] PHP   1. {main}() /app/public/index.php:0
+[18-Apr-2019 16:43:13 UTC] PHP   2. require() /app/public/index.php:17
+[18-Apr-2019 16:43:13 UTC] PHP   3. require_once() /app/public/wp-blog-header.php:13
+[18-Apr-2019 16:43:13 UTC] PHP   4. require_once() /app/public/wp-load.php:37
+[18-Apr-2019 16:43:13 UTC] PHP   5. require_once() /app/public/wp-config.php:76
+[18-Apr-2019 16:43:13 UTC] PHP   6. include_once() /app/public/wp-settings.php:342
+[19-Apr-2019 09:49:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'just_one' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[19-Apr-2019 09:49:07 UTC] PHP Stack trace:
+[19-Apr-2019 09:49:07 UTC] PHP   1. {main}() /app/public/index.php:0
+[19-Apr-2019 09:49:07 UTC] PHP   2. require() /app/public/index.php:17
+[19-Apr-2019 09:49:07 UTC] PHP   3. wp() /app/public/wp-blog-header.php:16
+[19-Apr-2019 09:49:07 UTC] PHP   4. WP->main() /app/public/wp-includes/functions.php:1105
+[19-Apr-2019 09:49:07 UTC] PHP   5. WP->query_posts() /app/public/wp-includes/class-wp.php:739
+[19-Apr-2019 09:49:07 UTC] PHP   6. WP_Query->query() /app/public/wp-includes/class-wp.php:622
+[19-Apr-2019 09:49:07 UTC] PHP   7. WP_Query->get_posts() /app/public/wp-includes/class-wp-query.php:3387
+[19-Apr-2019 09:49:07 UTC] PHP   8. do_action_ref_array() /app/public/wp-includes/class-wp-query.php:1736
+[19-Apr-2019 09:49:07 UTC] PHP   9. WP_Hook->do_action() /app/public/wp-includes/plugin.php:531
+[19-Apr-2019 09:49:07 UTC] PHP  10. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310

@@ -1,0 +1,18 @@
+[Mon Apr 15 15:11:12.373885 2019] [mpm_event:notice] [pid 1152:tid 140496581744512] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Apr 15 15:11:12.374614 2019] [core:notice] [pid 1152:tid 140496581744512] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 16 13:27:24.829680 2019] [mpm_event:notice] [pid 559:tid 140175278856064] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Tue Apr 16 13:27:24.830154 2019] [core:notice] [pid 559:tid 140175278856064] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 16 13:27:33.065078 2019] [proxy:error] [pid 562:tid 140175116072704] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Tue Apr 16 13:27:33.069164 2019] [proxy_fcgi:error] [pid 562:tid 140175116072704] [client 172.17.0.1:51504] AH01079: failed to make connection to backend: httpd-UDS
+[Tue Apr 16 13:27:33.692813 2019] [proxy:error] [pid 562:tid 140175107680000] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Tue Apr 16 13:27:33.693170 2019] [proxy_fcgi:error] [pid 562:tid 140175107680000] [client 172.17.0.1:51508] AH01079: failed to make connection to backend: httpd-UDS, referer: http://petar-coric.local/
+[Tue Apr 16 13:27:36.575381 2019] [proxy:error] [pid 562:tid 140175099287296] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Tue Apr 16 13:27:36.575494 2019] [proxy_fcgi:error] [pid 562:tid 140175099287296] [client 172.17.0.1:51512] AH01079: failed to make connection to backend: httpd-UDS
+[Tue Apr 16 13:27:36.863064 2019] [proxy:error] [pid 562:tid 140175090894592] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Tue Apr 16 13:27:36.863468 2019] [proxy_fcgi:error] [pid 562:tid 140175090894592] [client 172.17.0.1:51516] AH01079: failed to make connection to backend: httpd-UDS, referer: http://petar-coric.local/local-adminer-_2RxpKHLZ.php?username&db=local
+[Tue Apr 16 13:27:37.132077 2019] [proxy:error] [pid 562:tid 140175082501888] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Tue Apr 16 13:27:37.132276 2019] [proxy_fcgi:error] [pid 562:tid 140175082501888] [client 172.17.0.1:51522] AH01079: failed to make connection to backend: httpd-UDS, referer: http://petar-coric.local/wp-cron.php?doing_wp_cron=1555421257.0776178836822509765625
+[Thu Apr 18 12:05:39.048035 2019] [mpm_event:notice] [pid 560:tid 139673151547264] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Apr 18 12:05:39.049292 2019] [core:notice] [pid 560:tid 139673151547264] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 19 09:00:46.990194 2019] [mpm_event:notice] [pid 563:tid 140535857543040] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Apr 19 09:00:46.991388 2019] [core:notice] [pid 563:tid 140535857543040] AH00094: Command line: '/usr/sbin/apache2'
