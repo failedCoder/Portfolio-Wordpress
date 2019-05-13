@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.2.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-04-25 13:52:00+0000\n"
+"PO-Revision-Date: 2019-05-12 14:14:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,6 +51,30 @@ msgctxt "text direction"
 msgid "ltr"
 msgstr "ltr"
 
+#. translators: closing curly single quote
+#: wp-includes/formatting.php:113
+msgctxt "closing curly single quote"
+msgid "&#8217;"
+msgstr "&#8217;"
+
+#. translators: opening curly single quote
+#: wp-includes/formatting.php:111
+msgctxt "opening curly single quote"
+msgid "&#8216;"
+msgstr "&#8216;"
+
+#. translators: closing curly double quote
+#: wp-includes/formatting.php:100
+msgctxt "closing curly double quote"
+msgid "&#8221;"
+msgstr "&#8221;"
+
+#. translators: opening curly double quote
+#: wp-includes/formatting.php:98 wp-includes/formatting.php:5237
+msgctxt "opening curly double quote"
+msgid "&#8220;"
+msgstr "&#8220;"
+
 #. translators: $thousands_sep argument for
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:200
@@ -93,19 +117,19 @@ msgid ""
 "\n"
 "###DETAILS###"
 msgstr ""
-"Hi there!\n"
+"Hi!\n"
 "\n"
-"Since WordPress 5.2 there is a built-in feature that detects when a plugin or theme causes a fatal error on your site, and notifies you with this automated email.\n"
+"Since WordPress 5.2 there is a built-in feature that detects when a plugin or theme causes a fatal error on your site, and notifies you with this automated e-mail.\n"
 "###CAUSE###\n"
 "First, visit your website (###SITEURL###) and check for any visible issues. Next, visit the page where the error was caught (###PAGEURL###) and check for any visible issues.\n"
 "\n"
 "###SUPPORT###\n"
 "\n"
-"If your site appears broken and you can't access your dashboard normally, WordPress now has a special \"recovery mode\". This lets you safely login to your dashboard and investigate further.\n"
+"If your site appears broken and you can't access your dashboard normally, WordPress now has a special \"recovery mode\". This lets you safely log in to your dashboard and investigate further.\n"
 "\n"
 "###LINK###\n"
 "\n"
-"To keep your site safe, this link will expire in ###EXPIRES###. Don't worry about that, though: a new link will be emailed to you if the error occurs again after it expires.\n"
+"To keep your site safe, this link will expire in ###EXPIRES###. Don't worry about that, though: a new link will be e-mailed to you if the error occurs again after it expires.\n"
 "\n"
 "###DETAILS###"
 
@@ -498,7 +522,7 @@ msgstr "Error Details"
 msgid "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
 msgstr "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
 
-#: wp-includes/class-wp-recovery-mode-email-service.php:65
+#: wp-login.php:429 wp-includes/class-wp-recovery-mode-email-service.php:65
 msgid "The email could not be sent. Possible reason: your host may have disabled the mail() function."
 msgstr "The email could not be sent. Possible reason: your host may have disabled the mail() function."
 
@@ -11648,10 +11672,6 @@ msgstr "The web browser on your device cannot be used to upload files. You may b
 msgid "<strong>ERROR</strong>: Couldn&#8217;t register you&hellip; please contact the <a href=\"mailto:%s\">webmaster</a> !"
 msgstr "<strong>ERROR</strong>: couldn&#8217;t register you&hellip; please contact the <a href=\"mailto:%s\">webmaster</a>!"
 
-#: wp-login.php:429
-msgid "Possible reason: your host may have disabled the mail() function."
-msgstr "Possible reason: your host may have disabled the mail() function."
-
 #: wp-includes/post-template.php:298
 msgid "(more&hellip;)"
 msgstr "(more&hellip;)"
@@ -12584,18 +12604,6 @@ msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
 
-#. translators: closing curly single quote
-#: wp-includes/formatting.php:113
-msgctxt "closing curly single quote"
-msgid "&#8217;"
-msgstr "&#8217;"
-
-#. translators: opening curly single quote
-#: wp-includes/formatting.php:111
-msgctxt "opening curly single quote"
-msgid "&#8216;"
-msgstr "&#8216;"
-
 #. translators: double prime, for example in 9" (nine inches)
 #: wp-includes/formatting.php:108
 msgctxt "double prime"
@@ -12613,18 +12621,6 @@ msgstr "&#8242;"
 msgctxt "apostrophe"
 msgid "&#8217;"
 msgstr "&#8217;"
-
-#. translators: closing curly double quote
-#: wp-includes/formatting.php:100
-msgctxt "closing curly double quote"
-msgid "&#8221;"
-msgstr "&#8221;"
-
-#. translators: opening curly double quote
-#: wp-includes/formatting.php:98 wp-includes/formatting.php:5237
-msgctxt "opening curly double quote"
-msgid "&#8220;"
-msgstr "&#8220;"
 
 #: wp-signup.php:198
 msgid "Allow search engines to index this site."
@@ -14109,10 +14105,6 @@ msgstr "<strong>ERROR</strong>: please type your e-mail address."
 #: wp-includes/user.php:3621
 msgid "Invalid key."
 msgstr "Invalid key."
-
-#: wp-login.php:429
-msgid "The email could not be sent."
-msgstr "The e-mail could not be sent."
 
 #. translators: Password reset notification email subject. %s: Site title
 #: wp-login.php:399

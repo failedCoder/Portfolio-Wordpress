@@ -20,14 +20,14 @@
 </head>
 <body <?php body_class(); ?>>
 
-<ul class="float-right mr-3 mt-3">
-  	<?php pll_the_languages([
+<!-- <ul class="float-right mr-3 mt-3">
+  	<?php /*pll_the_languages([
   		'dropdown'=> 0,
   		'show_flags' => 1,
   		'show_names' => 0,
   		'hide_if_empty' => 0,
-  	]);?>	
-  </ul>
+  	]);*/?>	
+  </ul> -->
 
 <nav class="navbar navbar-light bg-light">
   <a class="navbar-brand" href="<?php echo site_url(); ?>">
