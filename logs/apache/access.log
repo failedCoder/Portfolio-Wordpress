@@ -11606,3 +11606,4 @@
 172.17.0.1 - - [13/May/2019:12:16:49 +0000] "GET /favicon.ico HTTP/1.0" 200 191 "http://petar-coric.local/wp-admin/admin.php?page=mlang" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
 172.17.0.1 - - [13/May/2019:12:16:51 +0000] "GET / HTTP/1.0" 200 10900 "http://petar-coric.local/en/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
 172.17.0.1 - - [13/May/2019:12:16:53 +0000] "GET /favicon.ico HTTP/1.0" 200 191 "http://petar-coric.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+172.17.0.1 - - [13/May/2019:14:19:48 +0000] "POST /wp-cron.php?doing_wp_cron=1557757188.6592268943786621093750 HTTP/1.0" 200 191 "http://petar-coric.local/wp-cron.php?doing_wp_cron=1557757188.6592268943786621093750" "WordPress/5.2; http://petar-coric.local"
